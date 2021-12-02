@@ -6,6 +6,7 @@ public class DemoClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("added first line");
+		System.out.println("second line");
 
 	}
 
